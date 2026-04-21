@@ -3,3 +3,5 @@ baostock>=0.8.8
 pandas>=2.0.0
 numpy>=1.24.3
 plotly>=5.17.0
+nbformat>=4.2.0
+ipykernel
