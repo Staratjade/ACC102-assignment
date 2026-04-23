@@ -49,7 +49,7 @@ Based on the analysis of `000001` (Ping An Bank) over the last 365 days (21 Apr 
 ## 6. Product link / Demo
 
 - **GitHub repository:** [https://github.com/Staratjade/ACC102-assignment](https://github.com/Staratjade/ACC102-assignment)  
-- **Demo video (Mediasite):** [Insert your Mediasite link here]  
+- **Demo video (Mediasite):** [https://video.xjtlu.edu.cn/Mediasite/Play/bf0ed9b429d544c294e214f89808323d1d]  
 - **Streamlit app:** run locally as described above
 
 ## 7. Limitations & next steps
